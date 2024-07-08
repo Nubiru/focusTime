@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.gabiosem.snack412564fe85924396b8c537205c8f7f0f"
     },
     "web": {
       "favicon": "./assets/favicon.png"
